@@ -8,3 +8,9 @@ gulp_image_minify
 　┗ node_modules  
 　┗ package.json  
 　┗ src/　…圧縮前の画像を格納するディレクトリ  
+
+# 利用方法
+１．gulp watch　走らせておく  
+２．圧縮したい画像をsrcディレクトリ配下に入れる  
+　　　　　　　　　↓↓↓↓  
+distディレクトリ配下に圧縮された画像が入る！  
